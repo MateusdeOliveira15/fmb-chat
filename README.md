@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto WhatsApp Clone
 
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
@@ -20,3 +21,7 @@ Lista de recursos usados em aula para este projeto
 | Cloud Storage | https://firebase.google.com/docs/storage/?authuser=0 |
 | PDF.js | https://mozilla.github.io/pdf.js/ |
 | MediaDevices.getUserMedia() | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |
+=======
+# fmb-chat
+Chat interno para FMB (Faculdade do Maciço de Baturité)
+>>>>>>> ba49906f8b38aa6532c16c6f32883f6a0c93e101
